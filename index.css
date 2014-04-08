@@ -1,0 +1,58 @@
+div.main {
+	background-color: #CCFFFF;
+}
+
+body {
+	background-color: #33CC99;
+	margin: 20px;	
+}
+
+div.top {
+	height: 20%;
+}
+
+div.icon {
+	float: left;
+	width: 30%;
+}
+
+div.login {
+	float: left;
+	width: 70%;
+}
+
+form.login {
+	margin-top: 15px;
+	margin-right: 15px;
+}
+
+div.menu {
+	background-color: yellow;
+}
+
+div.menu_elem {
+	width: 20%;
+	height: 5%;
+	float: left;
+	background-color: #33CC99;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: green;
+}
+
+div.right {
+	float: left;
+	width: 20%;
+}
+
+div.left {
+	float: left;
+	width: 80%;
+}
+
+div.bottom {
+
+}
